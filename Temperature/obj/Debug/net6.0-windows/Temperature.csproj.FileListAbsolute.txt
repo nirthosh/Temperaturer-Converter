@@ -1,0 +1,16 @@
+E:\C#\New folder\Temperature\bin\Debug\net6.0-windows\Temperature.exe
+E:\C#\New folder\Temperature\bin\Debug\net6.0-windows\Temperature.deps.json
+E:\C#\New folder\Temperature\bin\Debug\net6.0-windows\Temperature.runtimeconfig.json
+E:\C#\New folder\Temperature\bin\Debug\net6.0-windows\Temperature.dll
+E:\C#\New folder\Temperature\bin\Debug\net6.0-windows\Temperature.pdb
+E:\C#\New folder\Temperature\obj\Debug\net6.0-windows\Temperature.Form1.resources
+E:\C#\New folder\Temperature\obj\Debug\net6.0-windows\Temperature.csproj.GenerateResource.cache
+E:\C#\New folder\Temperature\obj\Debug\net6.0-windows\Temperature.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\New folder\Temperature\obj\Debug\net6.0-windows\Temperature.AssemblyInfoInputs.cache
+E:\C#\New folder\Temperature\obj\Debug\net6.0-windows\Temperature.AssemblyInfo.cs
+E:\C#\New folder\Temperature\obj\Debug\net6.0-windows\Temperature.csproj.CoreCompileInputs.cache
+E:\C#\New folder\Temperature\obj\Debug\net6.0-windows\Temperature.dll
+E:\C#\New folder\Temperature\obj\Debug\net6.0-windows\refint\Temperature.dll
+E:\C#\New folder\Temperature\obj\Debug\net6.0-windows\Temperature.pdb
+E:\C#\New folder\Temperature\obj\Debug\net6.0-windows\Temperature.genruntimeconfig.cache
+E:\C#\New folder\Temperature\obj\Debug\net6.0-windows\ref\Temperature.dll
